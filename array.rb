@@ -10,4 +10,8 @@ puts " "
 book = ["Harry Potter", "Game of Thrones", "Harry Potter", "The Fault in our Stars"]
 
 book.push("Papa John's Menu")
+
+length = book.length 
+puts length 
+
 puts book[4]
